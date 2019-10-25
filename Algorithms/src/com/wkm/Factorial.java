@@ -6,7 +6,7 @@ public class Factorial {
 	 * 递归求n！
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println(foo(5));
 	}
 	
